@@ -1,6 +1,7 @@
 var
   n,k,sum,i: integer;
 begin
+  writeln('Changed by Philipp Pisarenko')
   k:=1; sum:=0;
   repeat
     write('vvedite n: ');
